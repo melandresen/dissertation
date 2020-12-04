@@ -1,3 +1,0 @@
-frequency-data/3_linear_token+pos.txt filter=lfs diff=lfs merge=lfs -text
-frequency-data/3_syntactic_token+pos+deprel.txt filter=lfs diff=lfs merge=lfs -text
-frequency-data/3_syntactic_token+pos.txt filter=lfs diff=lfs merge=lfs -text
